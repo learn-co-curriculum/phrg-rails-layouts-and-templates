@@ -276,4 +276,7 @@ Use layouts to provide a common look and feel between different views of your ap
 
 Next, we'll take what we've learned here and apply it in a lab.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-layouts-and-templates/issues) or [pull-request](https://github.com/learn-co-curriculum/Pphrg-rails-layouts-and-templates/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Rails Layouts and Templates</p>
